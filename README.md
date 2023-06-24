@@ -1,3 +1,2 @@
-# Web-development
-# python programming 
+#web development 
 Tasks done by me
